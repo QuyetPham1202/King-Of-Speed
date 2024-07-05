@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 019dcfa1239673948a7f2c979aa20201
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - carUISprite: {instanceID: 0}
+  - carPrefab: {fileID: 8789887777076062968, guid: bfe203edca70e164ebe4da9db1a59b3a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
